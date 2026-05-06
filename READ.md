@@ -31,6 +31,13 @@ The application is built using **HTML5**, **Bootstrap 3.4.1**, and **jQuery**, w
 
 ---
 
+### Illustrations
+Here is a preview of the Student Enrollment data structure in JsonPowerDB:
+
+![Student Table Preview](https://github.com/user-attachments/assets/ed7d4c07-b320-4362-a4d7-41228e81511a)
+
+---
+
 ### Tech Stack & Sources
 *   **Frontend:** HTML5, CSS3, Bootstrap 3.4.1
 *   **Scripting:** JavaScript, jQuery
